@@ -14,7 +14,7 @@
 
 ### So, let me tell you about me
 
-Hi, my name is Matteo Altobello. I am an Computer Science student at University Federico II and a learner at Apple Developer Academy. I work only with backgorund music! I'm starting in iOS app design and development, and I'm learing about UX, User Interaction,
+Hi, my name is Matteo Altobello. I am a Computer Science student at University Federico II and a learner at Apple Developer Academy. I work only with backgorund music! I'm starting in iOS app design and development, and I'm learing about UX, User Interaction,
 
 
 
