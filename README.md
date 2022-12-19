@@ -1,4 +1,4 @@
-##What's up homie, It's Maltob here!
+<h2>What's up homie, It's Maltob here!<h2>
 <img align='right' src="https://res.cloudinary.com/maltob03/image/upload/v1671302152/maltob_using_macbook_rejtsz.png" width="230">
 
 <h3>Computer Enthusiast, probably I'm listening music so...sorry<h3>
@@ -33,9 +33,9 @@ const anmol = {
         },
     },
     - 👀 I’m interested in ... change the world
-	- 🌱 I’m currently learning ... how to learn while i sleep
-	- 💞️ I’m looking to collaborate on ... Tony Stark
-	- 📫 How to reach me ... matteoaltobello.tk (if the domain is active!!)
+    - 🌱 I’m currently learning ... how to learn while i sleep
+    - 💞️ I’m looking to collaborate on ... Tony Stark
+    - 📫 How to reach me ... matteoaltobello.tk (if the domain is active!!)
 
 };
 ```
