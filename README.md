@@ -3,7 +3,7 @@
 
 <h3>Computer Enthusiast, probably I'm listening music so...sorry<h3>
 
-[![Linkedin: Matteo Altobello](https://img.shields.io/badge/-Matteo_Altobello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/matteo-altobello-9a4797203/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BcASwItA0RMOBCInjftXiKA%3D%3D/)![GitHub followers](https://img.shields.io/github/followers/Maltob03?label=Follow&style=social)[![website](https://img.shields.io/badge/My Website-46a2f1.svg?)](https://priceless-newton-8bfa4f.netlify.app)
+[![Linkedin: Matteo Altobello](https://img.shields.io/badge/-Matteo_Altobello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/matteo-altobello-9a4797203/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BcASwItA0RMOBCInjftXiKA%3D%3D/)![GitHub followers](https://img.shields.io/github/followers/Maltob03?label=Follow&style=social)[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://priceless-newton-8bfa4f.netlify.app/)
 
 
 
